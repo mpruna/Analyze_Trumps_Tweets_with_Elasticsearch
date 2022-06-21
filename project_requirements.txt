@@ -7,7 +7,7 @@ docutils==0.15.2
 elasticsearch==7.0.5
 jmespath==0.9.4
 nltk==3.4.5
-numpy==1.17.3
+numpy==1.22.0
 pandas==0.25.2
 paramiko==2.6.0
 platform-utils==0.41
